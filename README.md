@@ -1,2 +1,2 @@
 # MyAppCardView
-CardView Example
+CardView android project example
